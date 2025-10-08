@@ -15,4 +15,4 @@ Seminar on Bayesian Deep Learning
 
 ## Contact
 Feel free to reach out if you would like to discuss my projects, I am always happy to connect!
-[💼 LinkedIn](https://www.linkedin.com/in/karl-schmitt-43ba39211/) • [✉️ Email](mailto:karl.schmitt@mail.de)
+[LinkedIn](https://www.linkedin.com/in/karl-schmitt-43ba39211/) • [Email](mailto:karl.schmitt@mail.de)
