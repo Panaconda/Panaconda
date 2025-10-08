@@ -10,7 +10,7 @@ I’m looking forward to continuing to expand my knowledge and applying it to im
 
 ## Overview of Content
 Consulting Project @LMU             | Movement analysis 
-[Seminar on Bayesian Deep Learning](https://github.com/muniq-ai/dsdl_seminar/tree/feature/normalizing-flows) | Implemented Normalizing Flows for variational inference on a Bayesian Neural Network classification model. | JAX, Bayesian NN |
+[Seminar on Bayesian Deep Learning]([https://github.com/muniq-ai/dsdl_seminar/tree/feature/normalizing-flows](https://github.com/muniq-ai/dsdl_seminar/tree/feature/normalizing-flows/normalizing_flows)) | Implemented Normalizing Flows for variational inference on a Bayesian Neural Network classification model. | JAX, Bayesian NN |
 
 
 ## Contact
