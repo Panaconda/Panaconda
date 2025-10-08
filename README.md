@@ -9,8 +9,8 @@ My academic background provides me with a broad skill set, from traditional like
 I’m looking forward to continuing to expand my knowledge and applying it to impactful, data-centric projects.
 
 ## Overview of Content
-Consulting Project @LMU | Movement analysis 
-Seminar on Bayesian Deep Learning
+Consulting Project @LMU             | Movement analysis 
+[Seminar on Bayesian Deep Learning](https://github.com/muniq-ai/dsdl_seminar/tree/feature/normalizing-flows) | Implemented Normalizing Flows for variational inference on a Bayesian Neural Network classification model. | JAX, Bayesian NN |
 
 
 ## Contact
