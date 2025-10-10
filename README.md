@@ -1,5 +1,5 @@
 ## Welcome! 
-This repository serves as an overview of the projects I’ve worked on throughout my academic and professional journey.  
+This repository serves as an overview of the projects I’ve worked on throughout my journey in data science  
 
 ##  About me
 I am a **Master’s student in Statistics and Data Science at LMU Munich**, planning to complete my master’s thesis in 2026.  
