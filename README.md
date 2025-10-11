@@ -19,6 +19,10 @@ Seminar on Deep Learning for Dynamical Systems | Bayesian NN, JAX
 Performed Variational Inference with Normalizing Flows to estimate a Bayesian-classification model
 Contributed to the Seminar's repository, link available [here](https://github.com/muniq-ai/dsdl_seminar/tree/feature/normalizing-flows/normalizing_flows)
 
+#### 3. Multi-Agent System (in progress)
+Course on Distributed Machine Learning @STJU Shanghai | Agentic-AI | Pytorch
+
+
 ## Contact
 Feel free to reach out if you would like to discuss my projects, I am always happy to connect!  
 [LinkedIn](https://www.linkedin.com/in/karl-schmitt-43ba39211/) • [Email](mailto:karl.schmitt@mail.de)
